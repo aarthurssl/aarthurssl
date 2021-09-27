@@ -1,5 +1,10 @@
 ### Heyy eu sou o Arthur Silva 👋
 
+**About me**
+- 🎓 Estudante de Sistemas de informação | UAM
+- 💼 Desenvolvedor Full Stack na [Bradesco](https://banco.bradesco/html/classic/index.shtm)
+- 💬 Me pergunte sobre qualquer coisa [Aqui](https://github.com/aarthurssl/aarthurssl/issues)
+
   ##
 
 <div align="center">
