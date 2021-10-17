@@ -5,9 +5,9 @@
 </div>
 
 **About me**
-- 🎓 Estudante de Sistemas de informação | UAM
+- 🎓 Graduating System of information | UAM
 - 💼 Desenvolvedor Full Stack na [Bradesco](https://banco.bradesco/html/classic/index.shtm)
-- 💬 Me pergunte sobre qualquer coisa [Aqui](https://github.com/aarthurssl/aarthurssl/issues)
+- 💬 Ask e about anything [here](https://github.com/aarthurssl/aarthurssl/issues)
 
   ##
 
