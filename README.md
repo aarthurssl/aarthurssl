@@ -6,7 +6,7 @@
 
 **About me**
 - 🎓 Graduating System of information | UAM
-- 💼 Desenvolvedor Full Stack na [Bradesco](https://banco.bradesco/html/classic/index.shtm)
+- 💼 Developer Full Stack at [Bradesco](https://banco.bradesco/html/classic/index.shtm)
 - 💬 Ask e about anything [here](https://github.com/aarthurssl/aarthurssl/issues)
 
   ##
@@ -26,6 +26,7 @@
   <img align="center" alt="Arthur-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
   <img align="center" alt="Arthur-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> 
   <img align="center" alt="Arthur-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"> 
+  <img align="center" alt="Arthur-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"> 
   
   ##
  
@@ -38,7 +39,7 @@
  
 </div>
   
- ## Total de visitas no meu perfil :detective: <br>
+ ## Total visits on my profile :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/aarthurssl/count.svg" />
  </p>  
